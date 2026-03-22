@@ -1,4 +1,4 @@
-package com.undercore.ds.components
+package com.undercore.core.designsystem.components
 
 import androidx.compose.foundation.layout.RowScope
 import androidx.compose.material.icons.Icons

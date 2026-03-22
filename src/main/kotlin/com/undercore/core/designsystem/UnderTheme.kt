@@ -1,4 +1,4 @@
-package com.undercore.ds.tokens
+package com.undercore.core.designsystem
 
 import androidx.activity.ComponentActivity
 import androidx.compose.foundation.isSystemInDarkTheme

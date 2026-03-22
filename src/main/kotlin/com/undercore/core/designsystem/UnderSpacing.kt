@@ -1,4 +1,4 @@
-package com.undercore.ds.tokens
+package com.undercore.core.designsystem
 
 import androidx.compose.runtime.staticCompositionLocalOf
 import androidx.compose.ui.unit.Dp

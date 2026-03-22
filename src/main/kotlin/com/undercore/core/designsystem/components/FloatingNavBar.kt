@@ -1,4 +1,4 @@
-package com.undercore.ds.components
+package com.undercore.core.designsystem.components
 
 import androidx.compose.animation.animateColorAsState
 import androidx.compose.animation.core.Spring
@@ -27,7 +27,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
-import com.undercore.ds.tokens.UnderColors
+import com.undercore.core.designsystem.UnderColors
 
 /**
  * Item de navegacao para [FloatingNavBar].

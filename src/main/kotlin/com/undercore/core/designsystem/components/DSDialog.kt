@@ -1,4 +1,4 @@
-package com.undercore.ds.components
+package com.undercore.core.designsystem.components
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
@@ -37,7 +37,7 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.window.Dialog
 import androidx.compose.ui.window.DialogProperties
-import com.undercore.ds.tokens.UnderColors
+import com.undercore.core.designsystem.UnderColors
 
 /**
  * Variante visual do DSDialog.

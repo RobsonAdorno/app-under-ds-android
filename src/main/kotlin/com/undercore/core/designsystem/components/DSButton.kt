@@ -1,4 +1,4 @@
-package com.undercore.ds.components
+package com.undercore.core.designsystem.components
 
 import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.height
@@ -13,8 +13,8 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Shape
 import androidx.compose.ui.unit.dp
-import com.undercore.ds.tokens.ShapeFull
-import com.undercore.ds.tokens.UnderColors
+import com.undercore.core.designsystem.ShapeFull
+import com.undercore.core.designsystem.UnderColors
 
 /**
  * Variante visual do DSButton.

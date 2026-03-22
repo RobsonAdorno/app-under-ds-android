@@ -1,4 +1,4 @@
-package com.undercore.ds.tokens
+package com.undercore.core.designsystem
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
